@@ -1,0 +1,10 @@
+C:\Users\thesw\source\repos\476 Project 2\bin\Debug\476 Project 2.exe.config
+C:\Users\thesw\source\repos\476 Project 2\bin\Debug\476 Project 2.exe
+C:\Users\thesw\source\repos\476 Project 2\bin\Debug\476 Project 2.pdb
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\476 Project 2.csprojAssemblyReference.cache
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\_476_Project_2.Properties.Resources.resources
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\476 Project 2.csproj.GenerateResource.cache
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\476 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\476 Project 2.exe
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\476 Project 2.pdb
+C:\Users\thesw\source\repos\476 Project 2\obj\Debug\_476_Project_2.Length_Converter.resources
